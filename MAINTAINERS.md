@@ -1,16 +1,8 @@
 ## Maintainers
 
 ### Active Maintainers
-| Name | GitHub | RocketChat |
-| --- | --- | --- |
-| Andrew Donald Kennedy | grkvlt | grkvlt |
-| Arun S M | arsulegai | arsulegai |
-| Darian Plumb | dplumb94 | dplumb |
-| Shawn Amundson | vaporos | amundson |
-| Peter Schwarz | peterschwarz | pschwarz |
+| Name | GitHub | Chat | email |
+|------|--------|------|------|
+|James Sullivan |	@jjsull1van(https://github.com/@jjsull1van) |   |  jim.sullivan@theblockchainacademy.com
 
-### Retired Maintainers
-| Name | GitHub | RocketChat |
-| --- | --- | --- |
-| Adam Ludvik | aludvik | adamludvik |
-| Kenneth Koski | knkski | knkski |
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>
