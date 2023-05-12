@@ -22,8 +22,9 @@ This lab's scope is to provide the Hyperledger Fabric community with an Ethereum
 
 
 # Pre-existing repository
-_If you currently have a Github repository that you wish to transfer to the Hyperledger Labs organization, please provide a link here. **NOTE: Please refer to the README for additional information on existing repositories.**_
-https://github.com/theblockchainacademy/burrow
-https://github.com/theblockchainacademy/fabric-chaincode-evm
-https://github.com/theblockchainacademy/sawtooth-seth
+Listed below are the product repositories that are all components of this proposal.
+
+<ul> <li>https://github.com/theblockchainacademy/burrow</li>
+<li>https://github.com/theblockchainacademy/fabric-chaincode-evm</li>
+<li>https://github.com/theblockchainacademy/sawtooth-seth</li> </ul><br>
 
